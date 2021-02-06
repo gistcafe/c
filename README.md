@@ -1,2 +1,5 @@
-# c
-C Console App
+# C
+
+CMake C Console App
+
+    $ cmake . && make && ./hello
